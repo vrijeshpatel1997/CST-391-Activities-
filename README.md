@@ -15,7 +15,7 @@ Here's a brief overview of the activities I've completed so far:
 
 
 ### Activity 3 Part 1
-- `activity3.md`: A thorough analysis of Activity 3, featuring the problem statement, approach, and conclusions.
+
 
 Please note that this list will be continuously updated as I complete more activities.
 
