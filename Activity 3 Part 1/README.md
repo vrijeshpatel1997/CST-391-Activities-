@@ -1,4 +1,4 @@
-# Activity 2 Part 1
+# Activity 3 Part 1
 # Vrijesh Patel
 ###  In this activity I have built simple Angular App that takes basic input from user and provides ouput in the console.log and on the web page.
 
