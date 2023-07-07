@@ -14,7 +14,7 @@ Feel free to explore each activity folder to find the corresponding markdown fil
 ## Activities Overview
 Here's a brief overview of the activities I've completed so far:
 
-Activity 3 Part 1 
+
 ### Activity 3 Part 1
 
 
