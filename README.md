@@ -20,7 +20,7 @@ Here's a brief overview of the activities I've completed so far:
 
 ###  In this activity I have built simple Angular App that takes basic input from user and provides ouput in the console.log and on the web page.
 ### Activity 3 Part 2
-The application is a music catalog management system. It allows users to view a list of artists and their albums. Users can select an artist to see the albums associated with that artist. They can also view detailed information about each album, including the album's title, description, year, and tracks. The application provides functionality to create, update, and delete albums.
+### The application is a music catalog management system. It allows users to view a list of artists and their albums. Users can select an artist to see the albums associated with that artist. They can also view detailed information about each album, including the album's title, description, year, and tracks. 
 
 Please note that this list will be continuously updated as I complete more activities.
 
