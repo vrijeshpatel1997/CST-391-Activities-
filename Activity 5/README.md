@@ -5,8 +5,7 @@
 
 1. The initial application page. 
 
-   ![Screen shot Of 1st home page ]
-   (ss2.png)
+   ![Screen shot Of 1st home page ](ss2.png)
 
 3. The Application after changes made to App.js
  ![Screen shot Of 2nd home page ](ss1.png)
