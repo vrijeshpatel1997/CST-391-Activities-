@@ -60,7 +60,7 @@
    ![Screen shot Of home page ](ss11.png)
 
 2. Search for specific word from the list
- ![Screen shot Of GCU home page ](ss12.png)
+ ![Screen shot Of GCU home page ](https://github.com/vrijeshpatel1997/CST-391-Activities-/blob/main/Activity%206/ss8.PNG?raw=true)
 
 
 3. Added new section to the navbar where the new album will be added
